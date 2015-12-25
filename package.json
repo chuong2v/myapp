@@ -2,13 +2,14 @@
   "name": "myapp",
   "version": "1.0.0",
   "description": "an express app",
-  "main": "index.js",
+  "main": "meadowlark.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "chuongvv",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "express-handlebars": "^2.0.1"
   }
 }
